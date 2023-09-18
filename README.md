@@ -1,0 +1,2 @@
+# RSIMU_frmae_transformer
+RealSense D435iの/camera/imuトピックの座標系を/camera_imu_optical_frameから/camera_linkに変換するROSパッケージ
